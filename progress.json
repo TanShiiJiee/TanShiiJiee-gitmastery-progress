@@ -1,0 +1,47 @@
+[
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768461245.932037,
+    "completed_at": 1768461249.884077,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1768461459.537401,
+    "completed_at": 1768461463.187019,
+    "comments": [
+      "You need to unstage all three attendance files for Josh, Adam, and Mary."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1768461556.147435,
+    "completed_at": 1768461558.277919,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768459970.333928,
+    "completed_at": 1768459972.29766,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1768460612.303294,
+    "completed_at": 1768460614.425877,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
