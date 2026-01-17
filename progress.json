@@ -1,8 +1,51 @@
 [
   {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768463464.028294,
+    "completed_at": 1768463468.164731,
+    "comments": [
+      "There are no grocery list items removed from the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768463535.418491,
+    "completed_at": 1768463540.424613,
+    "comments": [
+      "There are no new grocery list items added to the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768463580.625859,
+    "completed_at": 1768463582.950683,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768464555.495501,
+    "completed_at": 1768464557.592839,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "stage-fright",
     "started_at": 1768461245.932037,
     "completed_at": 1768461249.884077,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768462817.3719,
+    "completed_at": 1768462819.558863,
     "comments": [
       "Great work! You have successfully checked in all the actors!"
     ],
@@ -45,46 +88,12 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "stage-fright",
-    "started_at": 1768462817.3719,
-    "completed_at": 1768462819.558863,
+    "exercise_name": "remote-control",
+    "started_at": 1768635920.119019,
+    "completed_at": 1768636008.2547,
     "comments": [
-      "Great work! You have successfully checked in all the actors!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1768463464.028294,
-    "completed_at": 1768463468.164731,
-    "comments": [
-      "There are no grocery list items removed from the shopping list."
+      "The remote repository url you provided either does not exist or is private. Try again!"
     ],
     "status": "Incomplete"
-  },
-  {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1768463535.418491,
-    "completed_at": 1768463540.424613,
-    "comments": [
-      "There are no new grocery list items added to the shopping list."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1768463580.625859,
-    "completed_at": 1768463582.950683,
-    "comments": [
-      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "log-and-order",
-    "started_at": 1768464555.495501,
-    "completed_at": 1768464557.592839,
-    "comments": [],
-    "status": "Completed"
   }
 ]
