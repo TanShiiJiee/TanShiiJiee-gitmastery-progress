@@ -303,5 +303,14 @@
       "\"v1.0\" should be an annotated tag, not a lightweight tag."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1768929873.623918,
+    "completed_at": 1768929875.970165,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
   }
 ]
