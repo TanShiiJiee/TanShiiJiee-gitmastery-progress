@@ -339,23 +339,5 @@
       "Great work with using git branch and git checkout to fix the bugs!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-previous",
-    "started_at": 1769180101.393462,
-    "completed_at": 1769180106.218623,
-    "comments": [
-      "The 'sleep-line' branch is missing."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-previous",
-    "started_at": 1769180160.064553,
-    "completed_at": 1769180164.689634,
-    "comments": [
-      "The 'visitor-line' branch should start from the second commit (with message 'Describe location')."
-    ],
-    "status": "Incomplete"
   }
 ]
